@@ -1,13 +1,13 @@
-Package: eu.heinelt.ifile
-Name: iFile Test
-Version: 2.3
-Size: 9751882
+Package: org.Jailbreakhub.forums
+Name: Jailbreak Hub Forums
+Version: 1.0
+Size: 17973796
 Architecture: iphoneos-arm
-Description: iFile Test
+Description: Jailbreak Hub Forums App!
 Maintainer: Erick Reyes <ereyes0413@icloud.com>
-Author: Carsten H <test@gmail.com>
-Section: General
-MD5sum:88766f339cc7b150e356331e4594db7b
-SHA1sum: 3ff2ab2d71d013510c2d7946165719757
-SHA256sum:9f8c38312d7676a88507dcac6196261185928c9b38666bab80ac50fcfb8c3c61
-Filename: debs//eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+Author: Charlie K <charlie@jailbreakhub.org>
+Section: Forum App
+MD5sum:b8ef6c8134486631c11d4920cfddc8b6
+SHA1sum: 65161cf8eda4813b7cffaa1a42d563114eb029d4
+SHA256sum:94044010a41bc9811c9842e319d828a7e398767d2670e94baf2752aa39d4ddbb
+Filename: debs//org.Jailbreakhub.Forums.deb
