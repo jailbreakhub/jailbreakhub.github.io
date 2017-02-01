@@ -8,7 +8,7 @@ Architecture: iphoneos-arm
 Description: Testing... Adds icon to Yalu102
 Author: Bobby <bobby@jailbreakhub.org>
 Sponsor: Jailbreakhub <http://jailbreakhub.org>
-Depiction: http://jailbreakhub.gitlab.io/depictions/com.hubtheme.yalu103/index.html
+Depiction: https://github.com/jailbreakhub/jailbreakhub.github.io/tree/master/depictions/com.hubtheme.yalu103
 Filename: debs//com.hubtheme.yalu103.deb
 Size: 9902
 MD5sum: 44b40d306820618310488ea625de0646
