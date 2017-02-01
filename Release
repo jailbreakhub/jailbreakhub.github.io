@@ -1,8 +1,9 @@
-Origin: Jailbreak Hub's Repo
-Label: Jailbreak Hub's Official Repo
+Origin: JailbreakHub Repo
+Label: JailbreakHub Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: JailbreakHub
 Architectures: iphoneos-arm
 Components: main
-Description: A repo with tweaks by the community, for the community.
+Description: JailbreakHub Repo
+MD5Sum:

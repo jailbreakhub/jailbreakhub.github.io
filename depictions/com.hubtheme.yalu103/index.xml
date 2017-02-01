@@ -1,0 +1,37 @@
+<package>
+	<id>com.hubtheme.yalu103</id>
+	<name>Yalu103</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Test theme for Yalu102 App.</description>
+		<description>extras</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Test Screenshot</description>
+			<image>screen.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Website</name>
+			<url>http://www.jailbreakhub.org</url>
+		</link>
+		
+		<link>
+			<name>Forums</name>
+			<url>http://forums.jailbreakhub.org</url>
+		</link>
+	</links>
+</package>

@@ -1,0 +1,13 @@
+Package: org.Jailbreakhub.forums
+Name: Jailbreak Hub Forums
+Version: 1.0
+Size: 17973796
+Architecture: iphoneos-arm
+Description: Jailbreak Hub Forums App!
+Maintainer: Erick Reyes <ereyes0413@icloud.com>
+Author: Charlie K <charlie@jailbreakhub.org>
+Section: Forum App
+MD5sum:b8ef6c8134486631c11d4920cfddc8b6
+SHA1sum: 65161cf8eda4813b7cffaa1a42d563114eb029d4
+SHA256sum:94044010a41bc9811c9842e319d828a7e398767d2670e94baf2752aa39d4ddbb
+Filename: debs//org.Jailbreakhub.Forums.deb
