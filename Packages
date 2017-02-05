@@ -1,13 +1,28 @@
-Package: org.Jailbreakhub.forums
-Name: Jailbreak Hub Forums
+Package: com.hubtheme.yalu103
 Version: 1.0
-Size: 17973796
 Architecture: iphoneos-arm
-Description: Jailbreak Hub Forums App!
-Maintainer: Erick Reyes <ereyes0413@icloud.com>
-Author: Charlie K <charlie@jailbreakhub.org>
-Section: Forum App
-MD5sum:b8ef6c8134486631c11d4920cfddc8b6
-SHA1sum: 65161cf8eda4813b7cffaa1a42d563114eb029d4
-SHA256sum:94044010a41bc9811c9842e319d828a7e398767d2670e94baf2752aa39d4ddbb
-Filename: debs//org.Jailbreakhub.Forums.deb
+Maintainer: JailbreakHub <bobby@jailbreakhub.org>
+Filename: debs/com.hubtheme.yalu103.deb
+Size: 9902
+MD5sum: 44b40d306820618310488ea625de0646
+SHA1: a91b2dacd9af1d6832a75011a623aa3f892d3085
+SHA256: de412e555e0a0259bcd1477a6ddd87e2f67198af16618e5fe6bdd87399bbe6f4
+Section: Themes
+Description: Testing... Adds icon to Yalu102.
+Author: Bobby <bobby@jailbreakhub.org>
+Name: Yalu103
+Sponsor: JailbreakHub <http://jailbreakhub.org>
+
+Package: org.Jailbreakhub.Forums
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs/org.Jailbreakhub.Forums.deb
+Size: 17973796
+MD5sum: b8ef6c8134486631c11d4920cfddc8b6
+SHA1: 65161cf8eda4813b7cffaa1a42d563114eb029d4
+SHA256: 94044010a41bc9811c9842e319d828a7e398767d2670e94baf2752aa39d4ddbb
+Section: Applications
+Description: App to access Jailbreak Hub's Forums
+Author: CDK2020
+Name: Jailbreak Hub Forums
+
